@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "اوس جواد",
+      "hasCanvas": true,
+      "bodyTextLen": 86,
+      "bodyTextHash": "3b26f4900644a960109d02651c1fb1632f2af2a19add4084fa22a442780e27f0",
+      "bodyTextPrefix": "رد کردن مقدمه BIG STUDIO بیگ استودیو تقدیم می‌کند ج اوس جواد باز",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "اوس جواد",
+      "hasCanvas": true,
+      "bodyTextLen": 86,
+      "bodyTextHash": "3b26f4900644a960109d02651c1fb1632f2af2a19add4084fa22a442780e27f0",
+      "bodyTextPrefix": "رد کردن مقدمه BIG STUDIO بیگ استودیو تقدیم می‌کند ج اوس جواد باز",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
